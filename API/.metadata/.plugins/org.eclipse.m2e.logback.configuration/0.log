@@ -173,3 +173,5 @@
 2023-02-17 11:49:14,926 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-02-17 11:49:14,927 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\51127512022.2\Documents\Barbosa\API\API\blogpessoal\src\test\resources
 2023-02-17 11:54:00,740 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-17 11:54:00,751 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-17 11:54:00,752 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\51127512022.2\Documents\Barbosa\API\API\blogpessoal\src\test\resources
