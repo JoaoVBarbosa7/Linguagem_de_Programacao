@@ -11,5 +11,5 @@ import com.generation.ecomerce.model.Postagem;
 @Repository
 public interface PostagemRepository extends JpaRepository<Postagem, Long> {
 
-	public List <Postagem> findAllbyNomeContainingIgnoreCase(@Param("nome") String nome);
+	public List<Postagem> findAllByNomeContainingIgnoreCase(@Param("nome") String nome);
 }
